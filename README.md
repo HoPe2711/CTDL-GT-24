@@ -1,1 +1,1 @@
-"# CTDL-GT-24" 
+Nguyễn Thái Bình _ 20020328 _ INT2210 24
