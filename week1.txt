@@ -1,0 +1,21 @@
+2.
+ - Bỏ public -> xảy ra lỗi biên dịch
+ - Bỏ static -> xảy ra lỗi biên dịch
+ - Bỏ void-> xảy ra lỗi biên dịch
+ - Bỏ args -> xảy ra lỗi biên dịch  
+
+3.
+ - xảy ra lỗi biên dịch
+ - xảy ra lỗi biên dịch
+ - xảy ra lỗi biên dịch
+ - code chạy bình thường do args là tên biến
+
+4.
+ - không có output do thiếu input
+ - output chỉ ra kí tự @!
+ - code chạy bình thường
+ - không tìm thấy file class Hi.class
+ - code chạy bình thường
+ - ouput ra tên đầu tiên "Alice" do code in ra agrs[0]
+
+7. xảy ra lỗi do thiếu String[] args ở main
