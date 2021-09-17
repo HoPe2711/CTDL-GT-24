@@ -1,3 +1,4 @@
+import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
@@ -6,12 +7,10 @@ import java.util.Arrays;
 public class ThreeSum {
     public static void main(String[] args) {
 
-        int[] arr = new int[100000];
-        int n = 0;
-        while (!StdIn.isEmpty()) {
-            arr[n] = StdIn.readInt();
-            n++;
-        }
+        In in = new In("C:\\Users\\admin\\Desktop\\Java\\Test\\algs4-data\\8Kints.txt");
+
+        int[] arr = in.readAllInts();
+        int n = arr.length;
         n--;
         Arrays.sort(arr,0,n+1);
         for (int i = 0; i <= n-2; i++) {
