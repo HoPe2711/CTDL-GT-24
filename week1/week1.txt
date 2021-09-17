@@ -14,7 +14,7 @@
  - không có output do thiếu input
  - output chỉ ra kí tự @!
  - code chạy bình thường
- - không tìm thấy file class Hi.class
+ - không tìm thấy file class week1.Hi.class
  - code chạy bình thường
  - ouput ra tên đầu tiên "Alice" do code in ra agrs[0]
 
