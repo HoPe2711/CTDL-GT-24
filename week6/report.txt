@@ -1,0 +1,24 @@
+1. InsertionSort
+  - file dữ liệu test: 4.33 ms
+  - random test: 4.2 ms
+  - tăng dần test: 0 ms
+  - giảm dần test: 7.66 ms
+  - bằng nhau test: 0 ms
+
+2. MergeSort
+  Với n=4000 phần tử
+  - file dữ liệu test: 0 ms
+  Với n=100000 phần tử
+  - random test: 18.8 ms
+  - tăng dần test: 5.33 ms
+  - giảm dần test: 15.33 ms
+  - bằng nhau test: 10.33 ms
+
+3. QuickSort
+  Với n=4000 phần tử
+  - file dữ liệu test: 0 ms
+  Với n=100000 phần tử
+  - random test: 12.6 ms
+  - tăng dần test: 10.33 ms
+  - giảm dần test: 15.66 ms
+  - bằng nhau test: 5.33 ms
