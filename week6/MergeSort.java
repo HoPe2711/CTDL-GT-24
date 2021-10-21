@@ -1,6 +1,7 @@
 package week6;
 
 import edu.princeton.cs.algs4.In;
+
 import java.util.Arrays;
 import java.util.Random;
 
@@ -51,7 +52,7 @@ public class MergeSort {
   public static void main(String[] args) {
     int n = 4000;
     MergeSort mergeSort = new MergeSort();
-    In in = new In("C:\\Users\\binht\\Downloads\\algs4-data\\tiny.txt");
+    In in = new In("C:\\Users\\Cao Hoang Nam\\Downloads\\algs4-data\\4Kints.txt");
     int[] a = in.readAllInts();
 
     System.out.print("Time init: ");

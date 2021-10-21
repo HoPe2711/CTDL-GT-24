@@ -1,0 +1,1 @@
+Hai thuật Selection Sort và Insertion Sort đều được sử dụng cho trường hợp dữ liệu nhỏ nên việc tối ưu bộ nhớ khi cài LinkedList gần như không cần thiết. Và chi phí di chuyển các Node trong LinkedList có thể thực hiện tốn nhiều thời gian hơn so với việc đổi chỗ phần tử trong mảng. Vì vậy, chúng ta không nên lưu dữ liệu đầu vào của 2 thuật toán trên vào LinkedList.

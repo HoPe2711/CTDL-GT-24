@@ -2,6 +2,7 @@ package week6;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdRandom;
+
 import java.util.Arrays;
 import java.util.Random;
 
@@ -50,7 +51,7 @@ public class QuickSort {
   public static void main(String[] args) {
 
     QuickSort quickSort = new QuickSort();
-    In in = new In("C:\\Users\\binht\\Downloads\\algs4-data\\4Kints.txt");
+    In in = new In("C:\\Users\\Cao Hoang Nam\\Downloads\\algs4-data\\4Kints.txt");
     int[] a = in.readAllInts();
 
     System.out.print("Time init: ");
