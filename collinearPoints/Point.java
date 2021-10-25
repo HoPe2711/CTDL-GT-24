@@ -1,4 +1,4 @@
-package week7.collinearPoints;
+package collinearPoints;
 
 import edu.princeton.cs.algs4.StdDraw;
 

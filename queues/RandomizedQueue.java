@@ -1,4 +1,4 @@
-package week5.queues;
+package queues;
 
 import edu.princeton.cs.algs4.StdRandom;
 

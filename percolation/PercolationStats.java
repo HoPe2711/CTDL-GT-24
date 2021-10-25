@@ -1,10 +1,10 @@
-package week2.percolation;
+package percolation;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
-public class PercolationStats {
+public class    PercolationStats {
 
     private final double meanValue;
     private final double stddevValue;
