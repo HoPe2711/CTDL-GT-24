@@ -1,4 +1,4 @@
-package eightPullze;
+package eightPuzzle;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.MinPQ;
@@ -111,10 +111,8 @@ public class Solver {
     }
     Board initial = new Board(tiles);
 
-    // solve the puzzle
     Solver solver = new Solver(initial);
 
-    // print solution to standard output
     if (!solver.isSolvable()) {
       StdOut.println("No solution possible");
     } else {

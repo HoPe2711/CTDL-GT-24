@@ -1,4 +1,4 @@
-package eightPullze;
+package eightPuzzle;
 
 import edu.princeton.cs.algs4.Stack;
 
@@ -157,7 +157,6 @@ public class Board {
     }
   }
 
-  // unit testing (not graded)
   public static void main(String[] args) {
     int[][] a = {{8, 1, 3}, {4, 0, 2}, {7, 6, 5}};
     int[][] b = {{1, 2, 3}, {4, 5, 6}, {7, 8, 0}};
